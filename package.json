@@ -1,0 +1,20 @@
+{
+  "name": "enable-pane-item-control-helper",
+  "description": "Special behaviours for some special classes",
+  "keywords": [
+	"helper",
+	"pane-item",
+	"pane-item-control",
+	"pane-item-control-helper"
+  ],
+  "activationCommands": {
+	 ".enable-pane-item-control-helper.check-before-close": "package-pane-item-control-helper:close-if-accepted",
+	 ".enable-pane-item-control-helper.able-to-be-closed": "package-pane-item-control-helper:close"
+  },
+  "repository": "https://github.com/ksxatompackages/enable-clipboard-helper",
+  "license": "MIT",
+  "engines": {
+	 "atom": ">=1.2.0 <2.0.0"
+  },
+  "dependencies": {}
+}
