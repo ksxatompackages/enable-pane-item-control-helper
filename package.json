@@ -2,19 +2,20 @@
   "name": "enable-pane-item-control-helper",
   "description": "Special behaviours for some special classes",
   "keywords": [
-	"helper",
-	"pane-item",
-	"pane-item-control",
-	"pane-item-control-helper"
+    "helper",
+    "pane-item",
+    "pane-item-control",
+    "pane-item-control-helper"
   ],
   "activationCommands": {
-	 ".enable-pane-item-control-helper.check-before-close": "package-pane-item-control-helper:close-if-accepted",
-	 ".enable-pane-item-control-helper.able-to-be-closed": "package-pane-item-control-helper:close"
+    ".enable-pane-item-control-helper.check-before-close": "package-pane-item-control-helper:close-if-accepted",
+    ".enable-pane-item-control-helper.able-to-be-closed": "package-pane-item-control-helper:close"
   },
   "repository": "https://github.com/ksxatompackages/enable-pane-item-control-helper.git",
   "license": "MIT",
   "engines": {
-	 "atom": ">=1.2.0 <2.0.0"
+    "atom": ">=1.2.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "version": "1.0.0"
 }
