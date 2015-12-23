@@ -11,7 +11,7 @@
 	 ".enable-pane-item-control-helper.check-before-close": "package-pane-item-control-helper:close-if-accepted",
 	 ".enable-pane-item-control-helper.able-to-be-closed": "package-pane-item-control-helper:close"
   },
-  "repository": "https://github.com/ksxatompackages/enable-clipboard-helper",
+  "repository": "https://github.com/ksxatompackages/enable-pane-item-control-helper.git",
   "license": "MIT",
   "engines": {
 	 "atom": ">=1.2.0 <2.0.0"
